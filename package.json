@@ -1,6 +1,12 @@
 {
   "dependencies": {
+    "antd": "^4.17.4",
     "create-react-app": "^5.0.0",
+    "rc-calendar": "^9.15.11",
+    "rc-slider": "^9.7.5",
+    "rc-switch": "^3.2.2",
+    "react-radio-group": "^3.0.3",
+    "react-responsive-carousel": "^3.2.22",
     "react-scripts": "^5.0.0"
   }
 }
